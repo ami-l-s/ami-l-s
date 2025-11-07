@@ -1,9 +1,9 @@
-# 🦋💜 Hi there! I'm Ami 💜🦋
+# Hi there! 🦋💜 I'm Ami 💜🦋
 
 ✨ **Game Developer & Singer** ✨  
-🎮 Creating fun & educational games | 🎵 Making music that inspires  
+🎵 Making music | 🎮 Creating fun & educational games  
 
-![Purple Butterfly](https://i.pinimg.com/originals/ee/7c/04/ee7c047be3e8c93c09b12f64b96a3b31.gif)
+![Butterflies](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 ---
 
@@ -31,35 +31,34 @@
 ## 💜 Skills & Tools 💜
 
 ![Python](https://img.shields.io/badge/-Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-9370DB?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-BA55D3?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-DA70D6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-9B30FF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-9370DB?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🦋 About Me 🦋
+## 🦋 Fun & Personal 🦋
 
-💜 I love building beautiful, creative, and fun things.  
-🎶 Music is my calm. Games are my art.  
-🪄 I adore purple, butterflies, and everything pretty.  
+🎵 Singing and creating music  
+🎮 Making fun, educational, and 3D games  
+💜 Love purple, butterflies, and pretty things  
 
-![Sparkles Divider](https://i.pinimg.com/originals/87/3a/57/873a57c6de5421a06394ccab7cdd7a7f.gif)
+![Sparkles](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
 ## 🔒 Privacy Policy
 
-🛡️ **No user data is collected in my apps**  
-- No tracking, no ads  
-- Works offline  
-- 100% safe for all ages  
+**No user data is collected while using my apps.**  
+
+- No personal information is required  
+- No tracking or analytics  
+- All functionality works offline  
 
 ---
 
 🌸 Thanks for visiting my profile!  
-💜 Check out my work on [Amitech](https://ami-ls.itch.io/) 💜  
+Check out my work: [Amitech](https://ami-ls.itch.io/)
 
-![Butterfly Line](https://i.pinimg.com/originals/eb/9a/69/eb9a69a19c65d7f19c8a9d7fbd2f9983.gif)
 
 
 
