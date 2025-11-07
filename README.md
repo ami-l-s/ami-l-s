@@ -1,8 +1,9 @@
-# Hi there! 🦋 I'm Ami 💜
+# Hi there! 🦋💜 I'm Ami 💜🦋
 
 ✨ **Game Developer & Singer** ✨  
+🎵 Making music | 🎮 Creating fun & educational games  
 
-I love creating fun and educational apps for kids, making games, and singing my heart out!  
+![Butterflies](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 ---
 
@@ -41,11 +42,20 @@ I love creating fun and educational apps for kids, making games, and singing my 
 🎮 Making fun, educational, and 3D games  
 💜 Love purple, butterflies, and pretty things  
 
----
-
-**No user data is collected while using my apps.**  
+![Sparkles](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-🌸 Thanks for stopping by my profile!  
+## 🔒 Privacy Policy
+
+**No user data is collected while using my apps so far.**  
+
+- No personal information is required  
+- No tracking or analytics  
+- All functionality works offline  
+
+---
+
+🌸 Thanks for visiting my profile!  
 Check out my work: [Amitech](https://ami-ls.itch.io/)
+
