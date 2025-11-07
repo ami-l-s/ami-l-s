@@ -11,18 +11,18 @@
 
 <table>
 <tr>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/912.png" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/Idusa%20Kids.png" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/Idusa%20logo.jpg" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/Let's%20save%20herobrine.png" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/Untitled%20design.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/912.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Idusa%20Kids.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Idusa%20logo.jpg" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Let's%20save%20herobrine.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Untitled%20design.png" width="120"></td>
 </tr>
 <tr>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/app%20icon.png" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/applogo.png" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/caveman%20logo.jpg" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/ico.ico" width="120"></td>
-<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/profile.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/app%20icon.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/applogo.png" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/caveman%20logo.jpg" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/ico.ico" width="120"></td>
+<td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/profile.png" width="120"></td>
 </tr>
 </table>
 
@@ -48,7 +48,7 @@
 
 ## 🔒 Privacy Policy
 
-**No user data is collected while using my apps so far.**  
+**No user data is collected while using my apps.**  
 
 - No personal information is required  
 - No tracking or analytics  
@@ -58,4 +58,5 @@
 
 🌸 Thanks for visiting my profile!  
 Check out my work: [Amitech](https://ami-ls.itch.io/)
+
 
