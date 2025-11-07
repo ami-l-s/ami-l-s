@@ -48,7 +48,7 @@
 
 ## 🔒 Privacy Policy
 
-**No user data is collected while using my apps.**  
+**No user data is collected while using my apps so far ☺.**  
 
 - No personal information is required  
 - No tracking or analytics  
