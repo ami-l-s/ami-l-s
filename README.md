@@ -12,6 +12,7 @@
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/912.png" width="120"></td>
+<td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/WhatsApp%20Image%202025-11-16%20at%2015.52.59_ae3cea7b.jpg"></td>
 <td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Idusa%20Kids.png" width="120"></td>
 <td><img src="https://github.com/ami-l-s/Privacy-Policy/blob/main/1763279745157.jpg" width="120"></td>
 <td><img src="https://raw.githubusercontent.com/ami-l-s/Privacy-Policy/main/Let's%20save%20herobrine.png" width="120"></td>
